@@ -1,0 +1,20 @@
+<svg width="300" height="120" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Georgia', serif;
+      font-size: 25px;
+      font-weight: bold;
+      fill: #4FBF8B;
+    }
+  </style>
+  <text 
+    x="50%" 
+    y="50%" 
+    class="text"
+    text-anchor="middle"
+    dominant-baseline="middle"
+  >
+    <tspan x="50%" dy="-15">Padmavati</tspan>
+    <tspan x="50%" dy="30">milk point</tspan>
+  </text>
+</svg>
