@@ -84,7 +84,6 @@ export const AppContextProvider = ({ children }) => {
     setCartItems((prev) => {
       const newCart = { ...prev };
       newCart[itemId] = (newCart[itemId] || 0) + 1;
-      toast.success("Item added to cart");
       return newCart;
     });
   };
